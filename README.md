@@ -6,7 +6,11 @@
 
 This image and video illustrates the example of login feature when the person is already singned up.
 ![WhatsApp Image 2021-09-27 at 6 41 29 PM](https://user-images.githubusercontent.com/56080995/134916672-d061adac-2ccd-4eae-ad28-d7722b5b695c.jpeg)
+Here's the link for video.
 https://drive.google.com/file/d/1q8rmmU9E09ntJu938zMUyZU_rVFTcEKI/view?usp=sharing
+
+
+
 If the password and mail doesn't match, it throws error and asks to try again.
 
 If the user isn't logged in and trys to access any of the other pages it redirects the user to login page
