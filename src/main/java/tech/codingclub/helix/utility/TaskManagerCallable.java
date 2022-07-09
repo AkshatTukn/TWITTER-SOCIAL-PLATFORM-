@@ -1,10 +1,6 @@
 package tech.codingclub.helix.utility;
 
 import java.util.concurrent.*;
-
-/**
- * Created by Coding Club India.
- */
 public class TaskManagerCallable {
 
     private int threadCount;
