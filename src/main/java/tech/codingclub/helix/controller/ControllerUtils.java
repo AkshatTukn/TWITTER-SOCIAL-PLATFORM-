@@ -7,9 +7,6 @@ import tech.codingclub.helix.entity.Member;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by hackme on 17/8/17.
- */
 public class ControllerUtils {
 
     public static final String TOKEN_COOKIE = "t";
