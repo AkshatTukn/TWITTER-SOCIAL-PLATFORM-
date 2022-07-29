@@ -19,9 +19,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 //import java.util.Scanner;
 
-/**
- * User: rishabh
- */
 @Controller
 @RequestMapping("/song")
 public class MainControllerSong extends BaseController {
